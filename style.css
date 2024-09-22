@@ -70,12 +70,13 @@ ul li {
     cursor: pointer;
     position: relative;
     display: flex;
-    align-items: center; /* Alinear los checkbox y el texto */
+    align-items: center;
 }
 
 /* Estilo para el checkbox */
 input[type="checkbox"] {
-    margin-right: 10px;
+    margin: 0;
+    margin-right: 300px;
     width: 20px;
     height: 20px;
 }
